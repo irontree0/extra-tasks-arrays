@@ -1,7 +1,6 @@
 package nz.irontree.task;
 
 public class ArraySolution2 {
-
     public int[] sortArray(int[] arr) {
         int num;
         boolean swapped;
